@@ -9,7 +9,12 @@
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_top": 2,
+	"margin": 0,
 	"show_line_endings": true,
-	"theme": "One Dark.sublime-theme"
+	"theme": "One Dark.sublime-theme",
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 2,
+	"caret_extra_width": 1,
+	"caret_style": "blink"
 }
